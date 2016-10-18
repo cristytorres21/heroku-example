@@ -1,0 +1,50 @@
+
+
+	body {
+		background-color: black;
+		font-family: "Arial", Helvetica, Sans-Serif;
+		margin:5% 15% 5% 15%;
+
+	}
+
+	h1 {
+		color: white;
+		text-align: center;
+		font-size: 30pt;
+	}
+
+	h2 {
+		color: red;
+		text-align: left;
+		font-size: 18pt;		
+	}
+
+	#bio-image {
+		padding-right: 20px;
+		padding-bottom: 5px;
+		float:left;
+		vertical-align: top;
+		width:200px;
+		height:auto;
+		display: inline;
+	}
+
+	#main-bio {
+		
+		width:70%;
+		font-size:10pt;
+		color: white;
+		line-height: 1.5;
+		float:left;
+		display: inline;
+	}
+
+	#contact-info {
+		width:30%;
+		float:right;
+		color: white;
+		line-height: 1.5;
+		font-size:10pt;
+		display: inline;
+		
+	}
